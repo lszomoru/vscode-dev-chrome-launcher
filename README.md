@@ -1,4 +1,4 @@
-# Launch insiders.vscode.dev
+# Launch insiders.vscode.dev (fork)
 
 A simple Chrome/Edge extension for opening GitHub repositories in https://insiders.vscode.dev.
 
